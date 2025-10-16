@@ -1,0 +1,32 @@
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Model or embedding files
+*.pt
+*.bin
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Output
+similar_questions_v2.csv
